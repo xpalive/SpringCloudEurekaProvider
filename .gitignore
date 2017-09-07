@@ -1,3 +1,6 @@
+.idea
+target/
+SpringCloudEurekaProvider.iml
 # Compiled class file
 *.class
 
